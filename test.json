@@ -1,0 +1,43 @@
+[{
+    "id": "0",
+    "name": "Plaza Hollywood",
+    "address": "Level 2, Plaza Hollywood, Diamond Hill, Kowloon",
+    "lat": 22.340700149536133,
+    "long": 114.20169067382812
+}, {
+    "id": "1",
+    "name": "Exchange Square",
+    "address": "Shops 308-310, 3/F., Exchange Square Podium, Central, HK.",
+    "lat": 22.283939361572266,
+    "long": 114.15818786621094
+}, {
+    "id": "2",
+    "name": "Telford Plaza",
+    "address": "Shop Unit G1A, Atrium A, Telford Plaza I , Kowloon Bay, Kowloon",
+    "lat": 22.3228702545166,
+    "long": 114.21343994140625
+}, {
+    "id": "3",
+    "name": "Hong Kong Station",
+    "address": "Concession HOK 3a & b LAR Hong Kong Station",
+    "lat": 22.28445053100586,
+    "long": 114.15846252441406
+}, {
+    "id": "4",
+    "name": "Pacific Place, Central",
+    "address": "Shop 131, Level 1, Pacific Place 88 Queensway, HK",
+    "lat": 22.27773094177246,
+    "long": 114.1649169921875
+}, {
+    "id": "5",
+    "name": "MTR Hung Hom",
+    "address": "Shop No.1, Mezzanine Level, Unpaid Concourse of Hung Hom Station",
+    "lat": 22.302520751953125,
+    "long": 114.18212127685547
+}, {
+    "id": "6",
+    "name": "Citibank Plaza",
+    "address": "Shop 3, Citibank Plaza,3 Garden Road Central, HK",
+    "lat": 22.278520584106445,
+    "long": 114.16087341308594
+}]
